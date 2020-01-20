@@ -1,0 +1,61 @@
+{
+  "pages": [
+    "pages/index/home",
+    "pages/index/order",
+    "pages/index/mine",
+    "pages/pagesB/person_msg",
+    "pages/pagesA/class",
+    "pages/pagesA/compline",
+    "pages/pagesA/pinpai",
+    "pages/pagesA/homeView",
+    "pages/pagesB/yijian",
+    "pages/pagesB/server",
+    "pages/pagesB/promble",
+    "pages/pagesB/address",
+    "pages/pagesB/changAddress",
+    "pages/pagesB/yaoqing",
+    "pages/pagesC/orderDetails",
+    "pages/pagesC/finishedOrder",
+    "pages/pagesC/tui",
+    "pages/pagesC/success",
+    "pages/pagesC/pay",
+    "pages/pagesC/elevent",
+    "pages/pagesC/bindPhone",
+    "pages/pagesC/changePhone",
+    "pages/pagesC/firstOrder"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#484949",
+    "selectedColor": "#006EE3",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/home",
+        "iconPath": "static/tarba/home.png",
+        "selectedIconPath": "static/tarba/homeActive.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/index/order",
+        "iconPath": "static/tarba/order.png",
+        "selectedIconPath": "static/tarba/orderActive.png",
+        "text": "订单"
+      },
+      {
+        "pagePath": "pages/index/mine",
+        "iconPath": "static/tarba/my.png",
+        "selectedIconPath": "static/tarba/myActive.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

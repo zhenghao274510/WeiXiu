@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "tui-icon": "/components/icon/icon"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "选择型号",
+  "usingComponents": {
+    "mehaotian-search": "/components/mehaotian-search/mehaotian-search",
+    "empty": "/components/empty"
+  }
+}

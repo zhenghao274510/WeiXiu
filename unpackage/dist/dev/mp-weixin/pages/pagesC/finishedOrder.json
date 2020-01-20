@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "确认订单",
+  "usingComponents": {
+    "xfl-select": "/components/xfl-select",
+    "d-picker": "/components/w-picker/w-picker",
+    "long-data": "/components/long-date/long-date"
+  }
+}

@@ -1,0 +1,174 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/home",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/index/order",
+			"style": {
+				"navigationBarTitleText": "订单中心"
+			}
+		},
+		{
+			"path": "pages/index/mine",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+			"path": "pages/pagesB/person_msg",
+			"style": {
+				"navigationBarTitleText": "个人资料"
+			}
+		},
+		{
+			"path": "pages/pagesA/class",
+			"style": {
+				"navigationBarTitleText": "选择型号"
+			}
+		},
+		{
+			"path": "pages/pagesA/compline",
+			"style": {
+				"navigationBarTitleText": "优惠券"
+			}
+		},
+		{
+			"path": "pages/pagesA/pinpai",
+			"style": {
+				"navigationBarTitleText": "品牌展馆"
+			}
+		},
+		{
+			"path": "pages/pagesA/homeView",
+			"style": {
+				"navigationBarTitleText": "维修"
+			}
+		},
+		{
+			"path": "pages/pagesB/yijian",
+			"style": {
+				"navigationBarTitleText": "意见反馈"
+			}
+		},
+		{
+			"path": "pages/pagesB/server",
+			"style": {
+				"navigationBarTitleText": "服务条文"
+			}
+		},
+		{
+			"path": "pages/pagesB/promble",
+			"style": {
+				"navigationBarTitleText": "常见问题"
+			}
+		}, {
+			"path": "pages/pagesB/address",
+			"style": {
+				"navigationBarTitleText": "收货地址"
+			}
+		},
+		{
+			"path": "pages/pagesB/changAddress",
+			"style": {
+				"navigationBarTitleText": "收货地址"
+			}
+		},
+		{
+			"path": "pages/pagesB/yaoqing",
+			"style": {
+				"navigationBarTitleText": "邀请好友"
+			}
+		},
+		{
+			"path": "pages/pagesC/orderDetails",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/pagesC/finishedOrder",
+			"style": {
+				"navigationBarTitleText": "确认订单"
+			}
+		}, {
+			"path": "pages/pagesC/tui",
+			"style": {
+				"navigationBarTitleText": "申请退款"
+			}
+		},
+		{
+			"path": "pages/pagesC/success",
+			"style": {
+				"navigationBarTitleText": "支付成功"
+			}
+		},
+		{
+			"path": "pages/pagesC/pay",
+			"style": {
+				"navigationBarTitleText": "支付订单"
+			}
+		},
+		{
+			"path": "pages/pagesC/elevent",
+			"style": {
+				"navigationBarTitleText": "评价"
+			}
+		},
+		{
+			"path": "pages/pagesC/bindPhone",
+			"style": {
+				"navigationBarTitleText": "修改绑定"
+			}
+		},
+		{
+			"path": "pages/pagesC/changePhone",
+			"style": {
+				"navigationBarTitleText": "修改绑定"
+			}
+		},
+		{
+			"path": "pages/pagesC/firstOrder",
+			"style": {
+				"navigationBarTitleText": "完善信息"
+			}
+		}
+		
+
+
+	],
+	"tabBar": {
+		"color": "#484949",
+		"selectedColor": "#006EE3",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/home",
+				"iconPath": "static/tarba/home.png",
+				"selectedIconPath": "static/tarba/homeActive.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/index/order",
+				"iconPath": "static/tarba/order.png",
+				"selectedIconPath": "static/tarba/orderActive.png",
+				"text": "订单"
+			},
+			{
+				"pagePath": "pages/index/mine",
+				"iconPath": "static/tarba/my.png",
+				"selectedIconPath": "static/tarba/myActive.png",
+				"text": "我的"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

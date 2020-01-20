@@ -1,0 +1,215 @@
+
+.top.data-v-6b36466c {
+	margin-top: 30px;
+}
+.kefuIcon.data-v-6b36466c {
+	width: 25px;
+	height: 22px;
+}
+.kefuIcon>image.data-v-6b36466c {
+	width: 100%;
+}
+page.data-v-6b36466c {
+	background: #F8F9FB;
+}
+.useInfo.data-v-6b36466c{
+	text-align: left;
+}
+.imageConOne.data-v-6b36466c {
+	width: 28px;
+	height: 34px;
+	margin-right: 5px;
+}
+.imageConTwo.data-v-6b36466c {
+	width: 30px;
+	height: 26px;
+	margin-right: 5px;
+}
+.imageConOne>image.data-v-6b36466c {
+	width: 100%;
+	height: 100%;
+}
+.imageConTwo>image.data-v-6b36466c {
+	width: 100%;
+	height: 100%;
+}
+.meMain.data-v-6b36466c {
+	width: 100%;
+	position: relative;
+}
+.meMain>image.data-v-6b36466c {
+	width: 100%;
+	height: 280rpx;
+	display: block;
+}
+.meMainBox.data-v-6b36466c {
+	width: 92%;
+	margin: 0 auto;
+}
+.mePosition.data-v-6b36466c {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+.meHead.data-v-6b36466c {
+	overflow: hidden;
+	position: relative;
+	padding: 20px 0 0 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.meHeadAvatar.data-v-6b36466c {
+	margin-top: 10rpx;
+}
+.meHeadAvatar image.data-v-6b36466c {
+	width: 110rpx;
+	height: 110rpx;
+	display: block;
+	border-radius: 50%;
+}
+.meHeadName.data-v-6b36466c {
+	color: #FFFFFF;
+	font-size: 28rpx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	/* justify-content: center; */
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	margin-left: 10px;
+}
+.meOverBgOne.data-v-6b36466c {
+	overflow: hidden;
+	margin-top: 30px;
+	padding: 0 30rpx;
+}
+.meOverBg.data-v-6b36466c {
+	background: #FFFFFF;
+	overflow: hidden;
+	border-radius: 10rpx;
+	margin-top: 30rpx;
+	box-shadow: 0px 2px 8px 0px rgba(213, 213, 213, 0.4);
+	padding: 15px 0;
+}
+.meVisitor.data-v-6b36466c {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+}
+.meVisitorLt.data-v-6b36466c {
+	width: 50%;
+	text-align: center;
+	margin: 30rpx 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.meVisitorLt.data-v-6b36466c:nth-child(1) {
+	border-left: 1px #E7E7E9 solid;
+	border-right: 1px #E7E7E9 solid;
+}
+.meVisitorTxt_01.data-v-6b36466c {
+	font-size: 20rpx;
+	color: #A4A4A5;
+	text-align: left;
+}
+.meVisitorTxt_01 image.data-v-6b36466c {
+	width: 35rpx;
+	height: 35rpx;
+	vertical-align: middle;
+	margin: 0 10rpx 4rpx 0;
+}
+.meVisitorTxt_02.data-v-6b36466c {
+	font-size: 28rpx;
+	color: #6D6C6C;
+	text-align: left;
+}
+.meVisitorTitle.data-v-6b36466c {
+	font-size: 30rpx;
+	color: #333333;
+	border-bottom: 1px #E7E7E9 solid;
+	padding: 20rpx 30rpx;
+}
+.meOrderLt.data-v-6b36466c {
+	width: 25%;
+	text-align: center;
+	padding: 30rpx 0;
+	-webkit-transition: all 0.4s;
+	transition: all 0.4s;
+}
+.meOrderLt.data-v-6b36466c:active {
+	background: #E2E2E2;
+}
+.meOrderTxt_01.data-v-6b36466c {}
+.meOrderTxt_01 image.data-v-6b36466c {
+	width: 40rpx;
+	height: 40rpx;
+	display: block;
+	margin: 0 auto 6rpx;
+}
+.meOrderTxt_02.data-v-6b36466c {
+	font-size: 24rpx;
+	color: #666666;
+}
+.businessList.data-v-6b36466c {
+	overflow: hidden;
+	padding: 30rpx 0;
+	border-bottom: 1px #E7E7E9 solid;
+	-webkit-transition: all 0.4s;
+	transition: all 0.4s;
+}
+.businessList.data-v-6b36466c:active {
+	background: #E2E2E2;
+}
+.businessList.data-v-6b36466c:last-child {
+	border-bottom: none;
+}
+.businessListTxt.data-v-6b36466c {
+	float: left;
+	font-size: 28rpx;
+	color: #333333;
+}
+.businessListTxt image.data-v-6b36466c {
+	width: 35rpx;
+	height: 35rpx;
+	vertical-align: middle;
+	margin: 0 10rpx 4rpx 0;
+}
+.businessListYou.data-v-6b36466c {
+	float: right;
+	font-size: 28rpx;
+	color: #333333;
+}
+.businessListYou image.data-v-6b36466c {
+	width: 20rpx;
+	height: 20rpx;
+	vertical-align: middle;
+	margin: 0 0 4rpx 10rpx;
+}
+
